@@ -1,0 +1,13 @@
+
+CFAST
+
+Revision         : CFAST-7.7.7-0-gb43e74e-HEAD
+Revision Date    : Mon May 25 09:11:41 2026 -0400
+Compiler         : GCC version 11.4.0
+Compilation Date : Nov 15, 2026  01:42:15
+
+Object #2 (Second Fire) ignited at 148 seconds
+Object #3 (Third Fire) ignited at 226 seconds
+Total execution time =   1.09     seconds
+Total time steps =       1943
+Normal exit from CFAST
